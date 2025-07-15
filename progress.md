@@ -1,0 +1,1 @@
+Jul 15 @ 16:16 -- `yarn tailindcss init -p `  command not working in v4. (issue)[https://github.com/tailwindlabs/tailwindcss/discussions/15820] Docs suggest to add `@tailwindcss/vite` package and import to vite config.
